@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A very Big Sum", "A very Bi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagonal Difference", "Diagonal Difference\Diagonal Difference.csproj", "{F7104E97-4B24-46DB-9BC6-B19827E7925D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plus Minus", "Plus Minus\Plus Minus.csproj", "{69CCB430-44E0-4AC0-9F23-00D1317870B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F7104E97-4B24-46DB-9BC6-B19827E7925D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7104E97-4B24-46DB-9BC6-B19827E7925D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7104E97-4B24-46DB-9BC6-B19827E7925D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69CCB430-44E0-4AC0-9F23-00D1317870B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69CCB430-44E0-4AC0-9F23-00D1317870B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69CCB430-44E0-4AC0-9F23-00D1317870B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69CCB430-44E0-4AC0-9F23-00D1317870B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
