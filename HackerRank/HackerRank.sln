@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solve Me First", "Solve Me 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Array Sum", "Simple Array Sum\Simple Array Sum.csproj", "{057760C6-1F6A-4C8E-B545-7DDE2AFF6761}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A very Big Sum", "A very Big Sum\A very Big Sum.csproj", "{5A571CE8-7E8A-4B2A-BE18-86683BD6CC6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{057760C6-1F6A-4C8E-B545-7DDE2AFF6761}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{057760C6-1F6A-4C8E-B545-7DDE2AFF6761}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{057760C6-1F6A-4C8E-B545-7DDE2AFF6761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A571CE8-7E8A-4B2A-BE18-86683BD6CC6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A571CE8-7E8A-4B2A-BE18-86683BD6CC6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A571CE8-7E8A-4B2A-BE18-86683BD6CC6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A571CE8-7E8A-4B2A-BE18-86683BD6CC6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
