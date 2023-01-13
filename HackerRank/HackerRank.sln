@@ -31,6 +31,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Number Line Jumps", "Number
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Between Two Sets", "Between Two Sets\Between Two Sets.csproj", "{741A5CF0-A0B8-4EE7-80FD-CC53646824B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Breaking the Records", "Breaking the Records\Breaking the Records.csproj", "{8B58FBFA-65FE-479E-B130-E1CEA44B2985}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{741A5CF0-A0B8-4EE7-80FD-CC53646824B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{741A5CF0-A0B8-4EE7-80FD-CC53646824B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{741A5CF0-A0B8-4EE7-80FD-CC53646824B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B58FBFA-65FE-479E-B130-E1CEA44B2985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B58FBFA-65FE-479E-B130-E1CEA44B2985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B58FBFA-65FE-479E-B130-E1CEA44B2985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B58FBFA-65FE-479E-B130-E1CEA44B2985}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
