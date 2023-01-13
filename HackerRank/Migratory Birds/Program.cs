@@ -25,8 +25,9 @@ class Result
     public static int migratoryBirds(List<int> arr)
     {
         SortedDictionary<int, int> results = new SortedDictionary<int, int>();
-        int bestBird = 0;
-        int occurrences = 0;
+
+        int maxCount = 0;
+        int bestBird = int.MaxValue;
 
         for (int i = 0; i < arr.Count; i++)
         {
@@ -40,13 +41,16 @@ class Result
 
         foreach (var bird in results)
         {
-            if (occurrences < bird.Value)
+            if (bird.Value > maxCount)
             {
-                occurrences = bird.Value;
+                maxCount = bird.Value;
+                bestBird = bird.Key;
+            }
+            else if (bird.Value == maxCount && bird.Key < bestBird)
+            {
                 bestBird = bird.Key;
             }
         }
-
         return bestBird;
     }
 
