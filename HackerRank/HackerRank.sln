@@ -23,11 +23,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Birthday Cake Candles", "Bi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Time Conversion", "Time Conversion\Time Conversion.csproj", "{E7BA70FB-D66B-4B5F-9AD1-6E850C809F0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grading Students", "Grading Students\Grading Students.csproj", "{EE6829F8-2BD0-4A4D-807D-7C7E95C073C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grading Students", "Grading Students\Grading Students.csproj", "{EE6829F8-2BD0-4A4D-807D-7C7E95C073C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apple and Orange", "Apple and Orange\Apple and Orange.csproj", "{5A1FAECB-47FB-4EC4-BEA4-C955A7128F02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Apple and Orange", "Apple and Orange\Apple and Orange.csproj", "{5A1FAECB-47FB-4EC4-BEA4-C955A7128F02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number Line Jumps", "Number Line Jumps\Number Line Jumps.csproj", "{9CD74D0E-76A9-48C9-B4DD-F230DB1BEC4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Number Line Jumps", "Number Line Jumps\Number Line Jumps.csproj", "{9CD74D0E-76A9-48C9-B4DD-F230DB1BEC4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Between Two Sets", "Between Two Sets\Between Two Sets.csproj", "{741A5CF0-A0B8-4EE7-80FD-CC53646824B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{9CD74D0E-76A9-48C9-B4DD-F230DB1BEC4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CD74D0E-76A9-48C9-B4DD-F230DB1BEC4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CD74D0E-76A9-48C9-B4DD-F230DB1BEC4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{741A5CF0-A0B8-4EE7-80FD-CC53646824B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{741A5CF0-A0B8-4EE7-80FD-CC53646824B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{741A5CF0-A0B8-4EE7-80FD-CC53646824B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{741A5CF0-A0B8-4EE7-80FD-CC53646824B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
