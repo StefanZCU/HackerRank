@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Between Two Sets", "Between
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Breaking the Records", "Breaking the Records\Breaking the Records.csproj", "{8B58FBFA-65FE-479E-B130-E1CEA44B2985}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subarray Division", "Subarray Division\Subarray Division.csproj", "{BFF59F2F-6260-4402-9F67-5C91CFCE7D0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{8B58FBFA-65FE-479E-B130-E1CEA44B2985}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B58FBFA-65FE-479E-B130-E1CEA44B2985}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B58FBFA-65FE-479E-B130-E1CEA44B2985}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFF59F2F-6260-4402-9F67-5C91CFCE7D0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFF59F2F-6260-4402-9F67-5C91CFCE7D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFF59F2F-6260-4402-9F67-5C91CFCE7D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFF59F2F-6260-4402-9F67-5C91CFCE7D0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
