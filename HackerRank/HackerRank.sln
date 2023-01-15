@@ -29,15 +29,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Apple and Orange", "Apple a
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Number Line Jumps", "Number Line Jumps\Number Line Jumps.csproj", "{9CD74D0E-76A9-48C9-B4DD-F230DB1BEC4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Between Two Sets", "Between Two Sets\Between Two Sets.csproj", "{741A5CF0-A0B8-4EE7-80FD-CC53646824B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Between Two Sets", "Between Two Sets\Between Two Sets.csproj", "{741A5CF0-A0B8-4EE7-80FD-CC53646824B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Breaking the Records", "Breaking the Records\Breaking the Records.csproj", "{8B58FBFA-65FE-479E-B130-E1CEA44B2985}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Breaking the Records", "Breaking the Records\Breaking the Records.csproj", "{8B58FBFA-65FE-479E-B130-E1CEA44B2985}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subarray Division", "Subarray Division\Subarray Division.csproj", "{BFF59F2F-6260-4402-9F67-5C91CFCE7D0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Subarray Division", "Subarray Division\Subarray Division.csproj", "{BFF59F2F-6260-4402-9F67-5C91CFCE7D0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divisble Sum Pairs", "Divisble Sum Pairs\Divisble Sum Pairs.csproj", "{D15279BE-7EAE-4A89-8EF7-568713DCBBA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Divisble Sum Pairs", "Divisble Sum Pairs\Divisble Sum Pairs.csproj", "{D15279BE-7EAE-4A89-8EF7-568713DCBBA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Migratory Birds", "Migratory Birds\Migratory Birds.csproj", "{A810477C-A057-4188-AC2E-10E7F7A708F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Migratory Birds", "Migratory Birds\Migratory Birds.csproj", "{A810477C-A057-4188-AC2E-10E7F7A708F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day of the Programmer", "Day of the Programmer\Day of the Programmer.csproj", "{6C52FC1E-A709-465B-A33C-34A416C8297E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{A810477C-A057-4188-AC2E-10E7F7A708F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A810477C-A057-4188-AC2E-10E7F7A708F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A810477C-A057-4188-AC2E-10E7F7A708F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C52FC1E-A709-465B-A33C-34A416C8297E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C52FC1E-A709-465B-A33C-34A416C8297E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C52FC1E-A709-465B-A33C-34A416C8297E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C52FC1E-A709-465B-A33C-34A416C8297E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
